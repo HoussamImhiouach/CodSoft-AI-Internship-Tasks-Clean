@@ -4,7 +4,7 @@ import tkinter as tk
 from tkinter import scrolledtext
 
 # OpenAI API Key
-API_KEY = "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"  # Make sure to replace this with your real API key
+API_KEY = "theapikey"  # teh api key
 
 # Rule-based responses
 RULE_BASED_RESPONSES = {
